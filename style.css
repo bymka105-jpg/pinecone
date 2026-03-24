@@ -57,7 +57,7 @@ button {
   font-family: "Hanuman", serif;
 }
 .lotcion {
-  background-image: url("/images/location.png");
+  background-image: url("./images/location.png");
   margin: 0;
   width: 1440px;
   display: flex;
@@ -67,7 +67,7 @@ button {
   height: 500px;
 }
 .card1 {
-  background-image: url(/images/1.png);
+  background-image: url(./images/1.png);
   box-shadow:
     -8px -8px 0 0 rgba(31, 114, 170, 0.46),
     8px 8px 0 0 rgba(41, 114, 139, 0.25);
@@ -96,7 +96,7 @@ button {
   text-align: center;
 }
 .card2 {
-  background-image: url("/images/2.png");
+  background-image: url("./images/2.png");
   box-shadow:
     -8px -8px 0 0 rgba(31, 114, 170, 0.46),
     8px 8px 0 0 rgba(41, 114, 139, 0.25);
@@ -125,7 +125,7 @@ button {
   text-align: center;
 }
 .card3 {
-  background-image: url(/images/3.png);
+  background-image: url(./images/3.png);
   box-shadow:
     -8px -8px 0 0 rgba(31, 114, 170, 0.46),
     8px 8px 0 0 rgba(41, 114, 139, 0.25);
@@ -184,7 +184,7 @@ button {
 }
 .map_img {
   padding-left: 120px;
-  background-image: url(/images/map.png);
+  background-image: url(./images/map.png);
   width: 1440px;
   height: 902px;
   display: flex;
@@ -450,7 +450,7 @@ button {
 .footersection {
   width: 1440px;
   height: 1120px;
-  background-image: url(/images/Price&Footer_image.png);
+  background-image: url(./images/Price&Footer_image.png);
   display: flex;
   flex-direction: column;
   align-items: center;
